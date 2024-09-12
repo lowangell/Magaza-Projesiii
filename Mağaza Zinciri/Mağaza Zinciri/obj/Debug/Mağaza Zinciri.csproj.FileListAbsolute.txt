@@ -1,0 +1,7 @@
+D:\C#OrnekUygulama\C#OrnekUygulama\Mağaza Zinciri\Mağaza Zinciri\obj\Debug\Mağaza Zinciri.csproj.AssemblyReference.cache
+D:\C#OrnekUygulama\C#OrnekUygulama\Mağaza Zinciri\Mağaza Zinciri\obj\Debug\Mağaza Zinciri.csproj.CoreCompileInputs.cache
+D:\C#OrnekUygulama\C#OrnekUygulama\Mağaza Zinciri\Mağaza Zinciri\bin\Debug\Mağaza Zinciri.exe.config
+D:\C#OrnekUygulama\C#OrnekUygulama\Mağaza Zinciri\Mağaza Zinciri\bin\Debug\Mağaza Zinciri.exe
+D:\C#OrnekUygulama\C#OrnekUygulama\Mağaza Zinciri\Mağaza Zinciri\bin\Debug\Mağaza Zinciri.pdb
+D:\C#OrnekUygulama\C#OrnekUygulama\Mağaza Zinciri\Mağaza Zinciri\obj\Debug\Mağaza Zinciri.exe
+D:\C#OrnekUygulama\C#OrnekUygulama\Mağaza Zinciri\Mağaza Zinciri\obj\Debug\Mağaza Zinciri.pdb
